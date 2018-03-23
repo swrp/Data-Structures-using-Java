@@ -1,2 +1,2 @@
-#Java_Programs
-Data structures using java 
+# Java_Programs
+This repository contains manipulations of data using various Data Structures in Java. 
